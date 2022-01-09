@@ -1,5 +1,5 @@
 import "./App.css";
-import invite from "./WeddingInviteKhan.jpeg";
+import invite from "./WeddingInviteKhan.jpg";
 
 function App() {
   return (
